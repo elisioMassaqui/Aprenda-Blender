@@ -1,5 +1,7 @@
 # Aprenda Blender! 🎨
 
+![.](https://docs.blender.org/manual/en/latest/_images/getting-started_about_introduction_screenshot.jpg)
+
 Bem-vindo ao guia rápido para começar com o Blender, uma poderosa suíte de criação 3D gratuita e de código aberto. Se você está animado para mergulhar no mundo da modelagem, animação, simulação e muito mais, você está no lugar certo!
 
 ## O que é o Blender?
