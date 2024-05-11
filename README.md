@@ -21,6 +21,8 @@ Recursos de aprendizado: Explore tutoriais em vídeo no YouTube, cursos online, 
 
 Pratique, pratique, pratique: A prática é fundamental para aprimorar suas habilidades. Experimente criar projetos simples no início e vá aumentando a complexidade conforme avança.
 
+![](https://docs.blender.org/manual/en/latest/_images/getting-started_about_introduction_postprocessing.jpg)
+
 Participe da comunidade: Junte-se a fóruns, grupos nas redes sociais e comunidades online para interagir com outros usuários, obter ajuda e compartilhar seu trabalho.
 
 ## Recursos úteis:
